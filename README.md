@@ -10,3 +10,4 @@ neurons. If the activities of N neurons over P samples is stored in a P × N mat
 desired output corresponding to those P samples is stored in the P × K matrix F, then the
 optimal linear decoding weights are set by finding the least-squares weights D ∈ RN×K that
 solve
+![image](https://github.com/user-attachments/assets/5f8ae15e-f8e8-4c4c-96d0-900776336620)
